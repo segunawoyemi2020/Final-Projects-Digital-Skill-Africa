@@ -42,9 +42,9 @@ An in-depth exploration of sales trends, customer engagement, and dataset charac
 *	Average Discount Percentage: 0.51
 *	Number of Products listed under each Category: 1351
 *	Total Number of Review: 149,676
-*	Products with highest average rating:REDTECH USB-C
-*	Product with highest number of Review:boAt Bassheads
-*	Total Potential Revenue:113.64bn
+*	Products with highest average rating: REDTECH USB-C
+*	Product with highest number of Review: boAt Bassheads
+*	Total Potential Revenue: 113.64bn
 
   ## Deliverables
   * 	Detailed analysis report
