@@ -39,10 +39,15 @@ Using Excel (including Power Query), I completed the following steps:
 An in-depth exploration of sales trends, customer engagement, and dataset characteristics.
 
 ## Key Performance Indicators (KPIs)
-*	Total Customers: 1,194
-*	Total Categories: 210
-*	Average Rating: 4.10
-*	Total Price Value: $7.98 million
-*	Total Discount Value: $4.58 million
-*	Total Revenue: $121 billion
+*	Average Discount Percentage: 0.51
+*	Number of Products listed under each Category: 1351
+*	Total Number of Review: 149,676
+*	Products with highest average rating:
+*	Product with highest number of Review:
+*	Total Revenue:
+
+  ## Deliverables
+  * 	Detailed analysis report
+  * Interactive Excel dashboard
+
 
