@@ -35,4 +35,14 @@ Using Excel (including Power Query), I completed the following steps:
 5. Split and merged columns as needed
 6. Deleted unnecessary columns
 
-     
+## Exploratory Data Analysis (EDA)   
+An in-depth exploration of sales trends, customer engagement, and dataset characteristics.
+
+## Key Performance Indicators (KPIs)
+*	Total Customers: 1,194
+*	Total Categories: 210
+*	Average Rating: 4.10
+*	Total Price Value: $7.98 million
+*	Total Discount Value: $4.58 million
+*	Total Revenue: $121 billion
+
