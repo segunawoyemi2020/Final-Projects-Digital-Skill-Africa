@@ -51,3 +51,42 @@ An in-depth exploration of sales trends, customer engagement, and dataset charac
   * Interactive Excel dashboard
 
 
+
+
+
+# PROJECT 2
+## Topic: Palmoria Group HR Analytics – Gender Equality Case Study
+## Project Background
+An HR analytics case study for Palmoria Group, a Nigerian manufacturing company facing challenges with:
+* Gender inequality
+* Pay gaps
+* Salary compliance across regions and departments
+This project delivers insights and recommendations to promote fairness and inclusion.
+
+## Objectives
+*	Analyze gender distribution by department and region
+*	Examine performance ratings by gender
+*	Identify potential gender pay gaps
+*	Assess compliance with the $90,000 minimum wage regulation
+*	Allocate bonuses based on departmental performance
+*	Provide visual insights and strategic HR recommendations
+
+## Data Cleaning & Preparation
+Performed using Power Query in Power BI:
+- Removed duplicates and invalid records (e.g., missing salary or department)
+- Assigned "N/A" to employees with no gender information
+- Unpivoted the bonus rule table to long format
+- Merged the employee dataset with bonus rules on Department and Rating
+
+  ## Tools Used
+  Power BI for:
+  * Data modeling
+  * DAX measures
+  * Interactive dashboards
+  * Visualizations
+
+## Key Insights
+
+## Recommendations
+
+
