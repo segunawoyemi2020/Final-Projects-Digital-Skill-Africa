@@ -17,3 +17,22 @@ Amazon is a global technology company specializing in e-commerce, cloud computin
 
 ## Data Source
 * Microsoft excel dataset provided by Digital Skill Africa 
+
+## Tool Used
+Microsoft Excel for:
+	* Data Collection
+  *  Data Cleaning and Preparation
+  * Data Cleaning and Preparation
+  * Data Analysis
+  * Dashboard Creation
+
+## Data Cleaning and Preparation
+Using Excel (including Power Query), I completed the following steps:
+1. Loaded and inspected data
+2. Removed duplicate entries
+3. Handled missing data
+4. Corrected data types
+5. Split and merged columns as needed
+6. Deleted unnecessary columns
+
+     
