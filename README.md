@@ -9,3 +9,11 @@ Amazon is a global technology company specializing in e-commerce, cloud computin
 *	Innovation
 *	Operational excellence
 *	Long-term thinking
+
+## Project Objective
+*	Product improvement
+*	Marketing strategy
+*	Customer engagement
+
+## Data Source
+* Microsoft excel dataset provided by Digital Skill Africa 
