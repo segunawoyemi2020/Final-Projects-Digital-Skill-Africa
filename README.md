@@ -99,4 +99,4 @@ Performed using Power Query in Power BI:
 
 ## Deliverables
   * 	Detailed analysis report
-  * Interactive PowerBI dashboard: [Click here to view the Power BI report file](https://github.com/segunawoyemi2020/ Final-Projects-Digital-Skill-Africa /blob/main/Palmoria Employee_Data.pbix )
+  * Interactive PowerBI dashboard:# [Click here to view the PowerBI report file ](https://github.com/segunawoyemi2020/Final-Projects-Digital-Skill-Africa/blob/main/Palmoria%20Employee_Data.pbix)
