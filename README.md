@@ -97,4 +97,6 @@ Performed using Power Query in Power BI:
 *   Review regional salary allocations to align with role needs and budget
 *   Extend analysis to turnover rates, department-level trends, and time-based patterns
 
-
+## Deliverables
+  * 	Detailed analysis report
+  * Interactive PowerBI dashboard
