@@ -46,6 +46,12 @@ An in-depth exploration of sales trends, customer engagement, and dataset charac
 *	Product with highest number of Review: boAt Bassheads
 *	Total Potential Revenue: 113.64bn
 
+## Recommendations
+* Prioritize quality improvements in categories with below-average ratings.
+* Review discount policies in categories with high discount percentages but low ratings to avoid eroding brand value.
+* Encourage reviews on low-engagement products to improve visibility and trustworthiness
+
+  
   ## Deliverables
   * 	Detailed analysis report:
 [Click here to view the Microsoft excel report file ](https://github.com/segunawoyemi2020/Final-Projects-Digital-Skill-Africa/blob/main/Amazon%20case%20study_final.xlsx)
