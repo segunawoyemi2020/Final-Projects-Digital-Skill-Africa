@@ -61,6 +61,8 @@ An in-depth exploration of sales trends, customer engagement, and dataset charac
 
 
 
+
+
 # PROJECT 2
 ## Topic: Palmoria Group HR Analytics – Gender Equality Case Study
 ## Project Background
