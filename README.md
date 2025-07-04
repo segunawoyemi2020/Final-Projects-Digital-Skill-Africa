@@ -79,6 +79,9 @@ Performed using Power Query in Power BI:
 - Unpivoted the bonus rule table to long format
 - Merged the employee dataset with bonus rules on Department and Rating
 
+  ## Data Source
+* CSV  dataset provided by Digital Skill Africa
+
   ## Tools Used
   Power BI for:
   * Data modeling
