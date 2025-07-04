@@ -86,7 +86,15 @@ Performed using Power Query in Power BI:
   * Visualizations
 
 ## Key Insights
+* The organization’s total salary expenditure is ₦71.92 million for 946 employees, with annual bonuses totaling ₦2.2 million (approximately 3% of total pay).
+* Kaduna accounts for the highest share of bonus payments and overall compensation, suggesting regional disparities in cost allocation.
+* Gender distribution is broadly balanced (~49% male, ~47% female), but males earn approximately 3.5% more on average despite females achieving higher average performance ratings.
+* The compliance rate stands at a low 30.87%, highlighting significant policy adherence challenges.
 
 ## Recommendations
+*  Conduct gender pay audit to address observed gap.
+*   Investigate and improve low compliance rate via training and policy updates
+*   Review regional salary allocations to align with role needs and budget
+*   Extend analysis to turnover rates, department-level trends, and time-based patterns
 
 
